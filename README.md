@@ -49,7 +49,7 @@
 
     * git stash: Multiplica o ataque do dono da carta pela quantidade de turnos que não atacou.
 
-git branch: Muda as cartas em mãos dos jogadores (uso único).
+    * git branch: Muda as cartas em mãos dos jogadores (uso único).
 
 ## 💡 Estratégias e táticas
 Para se destacar no jogo, considere as seguintes dicas:
